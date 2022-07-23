@@ -1,0 +1,29 @@
+
+
+
+img {
+    max-width: 30%; height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+body {
+    background-color: black;
+    
+  }
+  img {
+    border: 5px solid red;
+  }
+
+  video {
+    display: block;
+    margin: auto;
+    border: 5px solid red;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+  }
